@@ -1,0 +1,40 @@
+
+
+body{
+    background:url("HotelFacade4x3.jpg");
+	background-size: 1390px 1050px;
+}
+
+.jum{
+    opacity:0.9;
+}
+.heading{
+	opacity:0.782;
+}
+.xyz{
+    opacity:0.882;
+    position: absolute;
+    left: 28%;
+    top: 60%;
+    
+    
+}
+.btnn{
+	position: absolute;
+	left: 40%;
+	top: 83.5%;
+    
+}
+.btnnn{
+	position: absolute;
+	left: 45%;
+	top: 160%;
+    
+}
+h1{
+	text-shadow:2px 0px 2px;
+}
+p{
+	background-color:black;
+}
+
